@@ -1,5 +1,7 @@
 # jex-geometry
 
+[![Build Status](https://travis-ci.org/reergymerej/jex-geometry.svg?branch=master)](https://travis-ci.org/reergymerej/jex-geometry)
+
 ```js
 import * as mod from 'jex-geometry'
 ```
