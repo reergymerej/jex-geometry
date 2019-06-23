@@ -1,6 +1,11 @@
 {
   "name": "jex-geometry",
   "description": "basic geometry helpers",
+  "keywords": [
+    "geometry",
+    "intersections",
+    "bounds"
+  ],
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
@@ -23,5 +28,6 @@
     "babel-eslint": "^10.0.2",
     "eslint": "3.x",
     "jest": "^24.8.0"
-  }
+  },
+  "repository": "git@github.com:reergymerej/jex-geometry.git"
 }
